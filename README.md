@@ -1,4 +1,4 @@
-# AwesomeHEOR
+# HEOR Learning Hub
 
 ```
 AwesomeHEOR-Learning-Center/
