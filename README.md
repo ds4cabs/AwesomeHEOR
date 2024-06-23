@@ -1,5 +1,6 @@
 # AwesomeHEOR
 
+```
 AwesomeHEOR-Learning-Center/
 │
 ├── README.md
@@ -36,3 +37,4 @@ AwesomeHEOR-Learning-Center/
     ├── Discussion_Forums.md
     ├── Collaboration_Projects.md
     └── Mentorship_and_Networking.md
+```
